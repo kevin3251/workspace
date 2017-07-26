@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491631936 source:c:\users\kevin\desktop\code\410221023othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"othello.h"
+
+1491803133 c:\users\kevin\desktop\code\410221023othello\othello.h
+
+1491656165 source:c:\users\kevin\desktop\code\410221023othello\othello.c
+	"othello.h"
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<time.h>
+	<assert.h>
+
+1491631938 source:e:\410221023othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"othello.h"
+
+1491803134 e:\410221023othello\othello.h
+

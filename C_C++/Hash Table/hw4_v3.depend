@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1420568704 source:c:\users\kevin\desktop\code\hw4_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+	<string.h>
+
+1420568770 source:c:\users\kevin\desktop\code\hw4_v3\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+	<string.h>
+
+1420568704 c:\users\kevin\desktop\code\hw4_v3\hash.h
+

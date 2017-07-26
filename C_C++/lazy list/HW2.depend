@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1417811787 source:c:\users\kevin\desktop\code\hw2\fin.c
+	<stdio.h>
+	<stdlib.h>
+	"fin.h"
+
+1417811444 c:\users\kevin\desktop\code\hw2\fin.h
+
+1417811897 source:c:\users\kevin\desktop\code\hw2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fin.h"
+

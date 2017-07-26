@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1414728363 source:c:\users\kevin\program\hw1_v2\board.c
+	"board.h"
+	<stdio.h>
+	<stdlib.h>
+
+1414726429 c:\users\kevin\program\hw1_v2\board.h
+
+1414728426 source:c:\users\kevin\program\hw1_v2\main.c
+	"board.h"
+	<stdio.h>
+	<stdlib.h>
+

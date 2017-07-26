@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418668857 source:c:\users\kevin\desktop\code\hw3_v2\bst.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
+1418666986 c:\users\kevin\desktop\code\hw3_v2\bst.h
+
+1418668012 source:c:\users\kevin\desktop\code\hw3_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
